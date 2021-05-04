@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**matheusPcruz18/matheusPcruz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Matheus Pereira**.
 
-Here are some ideas to get you started:
+💻 Web front-end com **ReactJs** <br/>
+📱 Mobile para Android e iOS com **React Native** <br/> 
+☁ API com **NodeJs** <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Objetivo:
+Estou a procura de uma oportunidade como desenvolvedor, e assim colocar em prática tudo que venho estudando e desenvolvendo em meus projetos pessoais e cursos.
+
+### Tecnologias: 
+
+<p>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="35px"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
+  &nbsp;  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
+  &nbsp; 
+  <img src="https://www.excelsiortechnologies.com/img/about/node-js.png" height="35px"/>
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" height="35px" />
+  &nbsp; 
+  <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
+  &nbsp;  
+  <img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />    
+</p>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/Matheus%20Pereira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-p-77569b138/)
