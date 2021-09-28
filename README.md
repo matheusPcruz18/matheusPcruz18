@@ -6,8 +6,9 @@
 📱 Mobile para Android e iOS com **React Native** <br/> 
 ☁ API com **NodeJs** <br/>
 
-### Objetivo:
-Estou a procura de uma oportunidade como desenvolvedor, e assim colocar em prática tudo que venho estudando e desenvolvendo em meus projetos pessoais e cursos.
+### Resumo:
+Formado em Informática para Internet, e atualmente trabalhando como desenvolvedor Full Stack.
+Em constante aprendizado para melhorar cada vez mais.
 
 ### Tecnologias: 
 
