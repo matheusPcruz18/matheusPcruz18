@@ -12,8 +12,8 @@ Em constante aprendizado para melhorar cada vez mais.
 
 <div align="left">
   <a href="https://github.com/matheusPcruz18">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusPcruz18&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPcruz18&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusPcruz18&show_icons=true&theme=Gradient&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusPcruz18&layout=compact&langs_count=7&theme=Gradient"/>
 </div>
 
 ### Tecnologias: 
